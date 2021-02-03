@@ -17,6 +17,7 @@ setup(
     install_requires=[
         'torch ~=1.7',
     ],
+
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/malihamza/keras_pytorch",
