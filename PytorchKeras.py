@@ -6,7 +6,7 @@ from tqdm import tqdm
 from Constants import Constants
 
 
-class ShieldKeras:
+class PytorchKeras:
     def __init__(self, model=None):
         self.model = model
         self.optimizer = None
